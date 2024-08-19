@@ -1,0 +1,21 @@
+{
+  "name": "web-3.0",
+  "version": "1.0.0",
+  "description": "web 3.0 world",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Web 3.0"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Abhinav Karade",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.22.8"
+  }
+}

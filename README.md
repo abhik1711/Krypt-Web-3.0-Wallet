@@ -1,3 +1,4 @@
+
 **🌐 KRYPT - Web3 Wallet Application**
 
 **🚀 Introduction**
@@ -109,4 +110,14 @@ Your Name - "**abhik1711**"
 **🌟 Show Your Support**
 
 Give a ⭐️ if you like this project!
+
+
+
+![Screenshot 2024-08-20 133954](https://github.com/user-attachments/assets/e10f5fb7-59f4-4dd6-8a36-9a59a20d1aea)
+
+
+![Screenshot 2024-08-20 134148](https://github.com/user-attachments/assets/8af88781-a7bb-4fff-9101-0eb334afaef4)
+
+
+![Screenshot 2024-08-20 134122](https://github.com/user-attachments/assets/f768838a-b128-463c-ad49-d4e2cede68cb)
 

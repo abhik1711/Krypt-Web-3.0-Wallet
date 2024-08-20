@@ -103,6 +103,12 @@ _Interactive Charts_
 
 • View Transactions: Access your transaction history through detailed logs and graphical representations.
 
+**👥 References**
+
+• Javascript Mastery (YouTube) - _https://youtu.be/Wn_Kb3MR_cU?si=ApqRr6nYMvBaHmCR_
+
+• ChatGPT 
+
 **👥 Contributors**
 
 Your Name - "**abhik1711**"

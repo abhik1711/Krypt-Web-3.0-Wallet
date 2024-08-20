@@ -1,3 +1,11 @@
+/* This part took a good amount of my time on how to correctly configure accurately all the transactions, store them and use the results to for further interpretations.
+Without the help of multiple resources such as :
+Javascript Mastery
+Few blockchain yt videos
+ChatGpt
+This wouldn't been possible*/
+
+
 import React, { useEffect, useState } from "react";
 import { ethers } from "ethers";
 

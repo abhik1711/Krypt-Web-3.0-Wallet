@@ -3,7 +3,7 @@ Without the help of multiple resources such as :
 Javascript Mastery
 Few blockchain yt videos
 ChatGpt
-This wouldn't been possible*/
+This wouldn't been possible */
 
 
 import React, { useEffect, useState } from "react";

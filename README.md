@@ -42,15 +42,15 @@ Explore the fully functional KRYPT application live on Netlify:
 
 **🛠️ Tech Stack**
 
-• React.js: For building the dynamic user interface.
+• **React.js**: For building the dynamic user interface.
 
-• JavaScript: Core scripting language.
+• **JavaScript**: Core scripting language.
 
-• Solidity: Smart contract language for creating tokens.
+• **Solidity**: Smart contract language for creating tokens.
 
-• Ethers.js: Interaction with the Ethereum blockchain.
+• **Ethers.js**: Interaction with the Ethereum blockchain.
 
-• HTML5 & CSS3: For structuring and styling the application.
+• **HTML5 & CSS3**: For structuring and styling the application.
 
 
 
